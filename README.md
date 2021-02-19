@@ -6,5 +6,6 @@ Dans le .env mettre à jours ses informations concernant la base de données.
 
 Lier sa base de donnée
 php bin/console doctrine:database:create
+
 Lancer le serveur
 symfony server:start
